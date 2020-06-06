@@ -1,4 +1,4 @@
-# Cloud-Computing-Final
+# Cloud-Computing-Final-Project
 - Upgrading from Monolithic to Microservices architecture
 - Develop custom container orchestration that can perform Load Balancing, Fault Tolerance, and
 Auto scaling in AWS Ec2 instances
